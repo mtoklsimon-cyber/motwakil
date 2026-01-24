@@ -64,7 +64,7 @@ Research-style experiments comparing different image processing techniques.
 
 ## 📫 Contact
 - 💼 GitHub: https://github.com/ArmanSimon
-- 📧 Email: (add later if you want)
+- 📧 Email: (mtoklsimon@gmail.com)
 
 ---
 
